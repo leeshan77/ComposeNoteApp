@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610275914479",
+    "project_id": "composenoteapp-360b6",
+    "storage_bucket": "composenoteapp-360b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610275914479:android:c256f7b13c92f29e0a611a",
+        "android_client_info": {
+          "package_name": "com.kolee.composenoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeWZSNlJLX1pUzpZIf4viODZ3IKK1UeXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
